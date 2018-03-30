@@ -1,3 +1,7 @@
+/*
+* Creado por José Armando Gutiérrez Núñez
+* 30 de Marzo de 2018
+*/
 #include <stdio.h>
 #include <string.h>
 
